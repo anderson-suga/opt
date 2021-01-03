@@ -1,0 +1,17 @@
+<key>PciRoot(0)/Pci(0x02,0)</key>
+            <dict>
+                <key>AAPL,GfxYTile</key>
+                <data>AQAAAA==</data>
+                <key>AAPL,ig-platform-id</key>
+                <data>AAAbWQ==</data>
+                <key>device-id</key>
+                <data>FlkAAA==</data>
+                <key>framebuffer-fbmem</key>
+                <data>AACQAA==</data>
+                <key>framebuffer-patch-enable</key>
+                <integer>1</integer>
+                <key>framebuffer-stolenmem</key>
+                <data>AAAwAQ==</data>
+                <key>hda-gfx</key>
+                <string>onboard-1</string>
+            </dict>
